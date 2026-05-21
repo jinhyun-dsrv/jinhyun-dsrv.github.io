@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dsrv.test.sdk",
+      "sha256_cert_fingerprints": [
+        "7C:5D:44:1F:11:9D:66:42:CF:1F:D7:80:0C:B0:0B:D0:FC:BE:F6:F6:B1:7B:A1:8D:21:DE:44:3D:F9:A4:3D:2F"
+      ]
+    }
+  }
+]
